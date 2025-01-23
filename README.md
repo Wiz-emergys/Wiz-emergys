@@ -1,9 +1,12 @@
-## Hi there !👋
+# Welcome! 👋
 
-This is my internship GitHub account created for work at [Emergys](https://ellicium.com/).
-For my personal projects and contributions, check out my main GitHub profile:
-If you're looking for my main profile, you can find it here:  
-👉 [My Main GitHub Profile](https://github.com/Jain-nikhilkumar)
+This GitHub account has been created for my internship at [Emergys](https://ellicium.com/).  
+Here, you'll find repositories and projects related to my work with the team.  
 
-Feel free to explore my repositories and projects there! 🚀
+---
 
+### 🌟 Looking for my main GitHub profile?  
+Check out my personal projects and contributions here:  
+👉 [Jain-nikhilkumar](https://github.com/Jain-nikhilkumar)  
+
+Feel free to explore and connect! 🚀
